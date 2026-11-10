@@ -4,3 +4,7 @@ tmp/
 *.class
 .idea/
 *.iml
+node_modules/
+.env
+npm-debug.log*
+yarn-error.log*
